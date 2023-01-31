@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fionaeliza
 - 👀 I’m interested in ... NLP and translation using python, data warehousing, and figuring out how the heck my company's data works.
-- 🌱 I’m currently learning ... even more PowerBI and Tableau
-- 💞️ I’m looking to collaborate on ... NLP
+- 🌱 I’m currently learning ... advanced SQL query automation
+- 💞️ I’m looking to collaborate on ... Sustainability data
 - 📫 How to reach me ... on here!
 
 <!---
